@@ -1,0 +1,19 @@
+body {
+  margin: 0; }
+
+header {
+  width: 100%;
+  background: purple;
+  padding: 10px; }
+  header h1 {
+    margin: 0;
+    color: white;
+    font-size: 38px; }
+
+section {
+  display: flex; }
+  section div {
+    width: 20%;
+    height: 200px;
+    background-color: purple;
+    margin: 10px; }
